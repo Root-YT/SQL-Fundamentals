@@ -1,0 +1,154 @@
+1001	Chai	18
+1002	Chang	19
+1003	Aniseed Syrup	10
+1004	Chef Antons Cajun Seasoning	22
+1005	Chef Antons Gumbo Mix	21.35
+1006	Grandmas Boysenberry Spread	25
+1007	Uncle Bobs Organic Dried Pears	30
+1008	Northwoods Cranberry Sauce	40
+1009	Mishi Kobe Niku	97
+1010	Ikura	31
+1011	Queso Cabrales	21
+1012	Queso Manchego La Pastora	38
+1013	Konbu	6
+1014	Tofu	23.25
+1015	Genen Shouyu	15.5
+1016	Pavlova	17.45
+1017	Alice Mutton	39
+1018	Carnarvon Tigers	62.5
+1019	Teatime Chocolate Biscuits	9.2
+1020	Sir Rodneys Marmalade	81
+1021	Sir Rodneys Scones	10
+1022	Gustafs Knäckebröd	21
+1023	Tunnbröd	9
+1024	Guaraná Fantástica	4.5
+1025	NuNuCa Nuß-Nougat-Creme	14
+1026	Gumbär Gummibärchen	31.23
+1027	Schoggi Schokolade	43.9
+1028	Rössle Sauerkraut	45.6
+1029	Thüringer Rostbratwurst	123.79
+1030	Nord-Ost Matjeshering	25.89
+1031	Gorgonzola Telino	12.5
+1032	Mascarpone Fabioli	32
+1033	Geitost	2.5
+1034	Sasquatch Ale	14
+1035	Steeleye Stout	18
+1036	Inlagd Sill	19
+1037	Gravad lax	26
+1038	Côte de Blaye	263.5
+1039	Chartreuse verte	18
+1040	Boston Crab Meat	18.4
+1041	Jacks New England Clam Chowder	9.65
+1042	Singaporean Hokkien Fried Mee	14
+1043	Ipoh Coffee	46
+1044	Gula Malacca	19.45
+1045	Røgede sild	9.5
+1046	Spegesild	12
+1047	Zaanse koeken	9.5
+1048	Chocolade	12.75
+1049	Maxilaku	20
+1050	Valkoinen suklaa	16.25
+1051	Manjimup Dried Apples	53
+1052	Filo Mix	7
+1053	Perth Pasties	32.8
+1054	Tourtière	7.45
+1055	Pâté chinois	24
+1056	Gnocchi di nonna Alice	38
+1057	Ravioli Angelo	19.5
+1058	Escargots de Bourgogne	13.25
+1059	Raclette Courdavault	55
+1060	Camembert Pierrot	34
+1061	Sirop dérable	28.5
+1062	Tarte au sucre	49.3
+1063	Vegie-spread	43.9
+1064	Wimmers gute Semmelknödel	33.25
+1065	Louisiana Fiery Hot Pepper Sauce	21.05
+1066	Louisiana Hot Spiced Okra	17
+1067	Laughing Lumberjack Lager	14
+1068	Scottish Longbreads	12.5
+1069	Gudbrandsdalsost	36
+1070	Outback Lager	15
+1071	Fløtemysost	21.5
+1072	Mozzarella di Giovanni	34.8
+1073	Röd Kaviar	15
+1074	Longlife Tofu	10
+1075	Rhönbräu Klosterbier	7.75
+1076	Lakkalikööri	18
+1077	Original Frankfurter grüne Soße	13
+1078	Chai	18
+1079	Chang	19
+1080	Aniseed Syrup	10
+1081	Chef Antons Cajun Seasoning	22
+1082	Chef Antons Gumbo Mix	21.35
+1083	Grandmas Boysenberry Spread	25
+1084	Uncle Bobs Organic Dried Pears	30
+1085	Northwoods Cranberry Sauce	40
+1086	Mishi Kobe Niku	97
+1087	Ikura	31
+1088	Queso Cabrales	21
+1089	Queso Manchego La Pastora	38
+1090	Konbu	6
+1091	Tofu	23.25
+1092	Genen Shouyu	15.5
+1093	Pavlova	17.45
+1094	Alice Mutton	39
+1095	Carnarvon Tigers	62.5
+1096	Teatime Chocolate Biscuits	9.2
+1097	Sir Rodneys Marmalade	81
+1098	Sir Rodneys Scones	10
+1099	Gustafs Knäckebröd	21
+1100	Tunnbröd	9
+1101	Guaraná Fantástica	4.5
+1102	NuNuCa Nuß-Nougat-Creme	14
+1103	Gumbär Gummibärchen	31.23
+1104	Schoggi Schokolade	43.9
+1105	Rössle Sauerkraut	45.6
+1106	Thüringer Rostbratwurst	123.79
+1107	Nord-Ost Matjeshering	25.89
+1108	Gorgonzola Telino	12.5
+1109	Mascarpone Fabioli	32
+1110	Geitost	2.5
+1111	Sasquatch Ale	14
+1112	Steeleye Stout	18
+1113	Inlagd Sill	19
+1114	Gravad lax	26
+1115	Côte de Blaye	263.5
+1116	Chartreuse verte	18
+1117	Boston Crab Meat	18.4
+1118	Jacks New England Clam Chowder	9.65
+1119	Singaporean Hokkien Fried Mee	14
+1120	Ipoh Coffee	46
+1121	Gula Malacca	19.45
+1122	Røgede sild	9.5
+1123	Spegesild	12
+1124	Zaanse koeken	9.5
+1125	Chocolade	12.75
+1126	Maxilaku	20
+1127	Valkoinen suklaa	16.25
+1128	Manjimup Dried Apples	53
+1129	Filo Mix	7
+1130	Perth Pasties	32.8
+1131	Tourtière	7.45
+1132	Pâté chinois	24
+1133	Gnocchi di nonna Alice	38
+1134	Ravioli Angelo	19.5
+1135	Escargots de Bourgogne	13.25
+1136	Raclette Courdavault	55
+1137	Camembert Pierrot	34
+1138	Sirop dérable	28.5
+1139	Tarte au sucre	49.3
+1140	Vegie-spread	43.9
+1141	Wimmers gute Semmelknödel	33.25
+1142	Louisiana Fiery Hot Pepper Sauce	21.05
+1143	Louisiana Hot Spiced Okra	17
+1144	Laughing Lumberjack Lager	14
+1145	Scottish Longbreads	12.5
+1146	Gudbrandsdalsost	36
+1147	Outback Lager	15
+1148	Fløtemysost	21.5
+1149	Mozzarella di Giovanni	34.8
+1150	Röd Kaviar	15
+1151	Longlife Tofu	10
+1152	Rhönbräu Klosterbier	7.75
+1153	Lakkalikööri	18
+1153	Original Frankfurter grüne Soße	13
